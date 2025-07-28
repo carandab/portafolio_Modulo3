@@ -71,20 +71,13 @@ body {
   border-color: #b8bbd0;
 }
 
-#btn-repositorio {
+.btn-repositorio {
 
   background-color: #4521a794;
   color: white;  
   align-self: center;
 }
 
-#btn-repositorio2 {
-
-  background-color: #4521a794;
-  color: white;  
-  align-self: center;
-
-}
 
 #proyectos-individuales {
   color: white;
